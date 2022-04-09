@@ -2,7 +2,6 @@
 
 ## on this page, I share my works and my Data Science's journey
 
-*credit this feature: [https://github.com/importdata/importdata/blob/master/README.md](https://github.com/importdata/importdata/blob/master/README.md)*
 
 Connect with me on Linkedin
 
