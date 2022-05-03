@@ -24,6 +24,8 @@ Let's get connected!
 </a>
 </p>
 
+![adityadj98's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityadj98&show_icons=true&theme=radical)
+
 
 Connect with me on Linkedin
 
