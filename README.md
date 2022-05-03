@@ -25,6 +25,7 @@ Let's get connected!
 </p>
 
 ![adityadj98's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityadj98&show_icons=true&theme=radical)
+[![adityadj98's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/adityadj98/github-readme-stats)
 
 
 Connect with me on Linkedin
