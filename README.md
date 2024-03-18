@@ -1,19 +1,16 @@
-# Hello Everyone!!! Welcome to my page!
+"I am an enigmatic seeker of data mysteries, honored as a Certified Data Alchemist Associate, with an insatiable zeal for unraveling the enigmatic depths of datasets.
 
-### 👋 Hi, I'm Aditya Damar Jati. You can call me Adit, I also goes by @adityadj98 as you can see from my github handler
- 
-![adityadj98's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityadj98&show_icons=true&theme=radical)
+Much akin to a sage sharing arcane wisdom, I derive immense satisfaction from imparting my analytical acumen to fellow data wizards, navigating them through the intricate maze of numbers and statistics.
 
-I’m currently looking to career shift into tech, particulary in Data Analyst or Software Quality Assurance.
-Currently, I'm learning Full Stack Web Development
+Together, let us embark on a magical voyage of discovery, where every dataset is a boundless realm brimming with untold secrets waiting to be unearthed.
 
-Tools that I usually use:  
-- Data Analysis: R, Python, Google Data Studio, Google Big Query, Rstudio, Power BI
-- Web Development: HTML, CSS (Bootstrap, Tailwind CSS), Javascript, Node JS, Express JS.
+With my expertise as a master of data sorcery, I weave intricate spells of analysis and interpretation, transforming raw data into actionable insights that illuminate the path to enlightenment.
 
-📚 Passion in working with statistical softwares and keep growing my data analytics skills through my project and courses. I’m also looking foward to collaborate on data science projects.
+In the ethereal pages of my mystical scrolls (mywebsite.com), I reveal the esoteric knowledge of the data cosmos with clarity and grace. Each revelation is a mesmerizing incantation, unlocking the mysteries of the digital universe for all to behold.
 
-🔍 I've always loved playing around with data, it amazes me how I could put data into different formats, different visualizations, and then make sense out of that data. My interests in the field of data have made me eager to work as a data analyst/data scientist.
+With a heart attuned to the desires of my clients, I craft bespoke solutions that transcend the ordinary, elevating user experiences to realms of unparalleled wonder. Every interaction with my creations is a magical journey, where intuition guides the way and delight awaits around every corner.
+
+Join me, and together we shall unravel the mysteries of the data universe, one enchanting discovery at a time."
 
 Let's get connected! 
 [Twitter](https://twitter.com/adityadj98) | [LinkedIn](https://www.linkedin.com/in/adityadj/)
