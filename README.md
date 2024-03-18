@@ -4,10 +4,4 @@ In my arsenal of tools, I wield the power of Python, SQL, Google BigQuery, and T
 
 Join me on this extraordinary voyage, and together we shall harness the magic of data to drive business growth, enhance production efficiency, and unlock new insights that shape the future. Let us delve into the enchanted realm of data analytics, where every discovery holds the promise of transformation and innovation.
 
-[Twitter](https://twitter.com/adityadj98) | [LinkedIn](https://www.linkedin.com/in/adityadj/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadj98&layout=compact)](https://github.com/adityadj98/github-readme-stats)
-
-Connect with me on Linkedin
-
-<a href="https://www.linkedin.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+[Portfolio](https://adityadj.my.canva.site/portofolio) | [Twitter](https://twitter.com/adityadj98) | [LinkedIn](https://www.linkedin.com/in/adityadj/) | 
