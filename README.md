@@ -2,6 +2,6 @@ As a Data Analyst Associate, I possess the skills of a sorcerer when it comes to
 
 In my arsenal of tools, I wield the power of Python, SQL, Google BigQuery, and Tableau to cast spells of analysis and interpretation. With Python's versatility, I manipulate data with finesse, while SQL grants me access to vast databases for extracting valuable insights. Google BigQuery empowers me to analyze massive datasets swiftly and efficiently, unlocking actionable insights for business decisions. Meanwhile, Tableau allows me to craft captivating visualizations that breathe life into data, enabling stakeholders to grasp insights at a glance.
 
-Join me on this extraordinary voyage, and together we shall harness the magic of data to drive business growth, enhance production efficiency, and unlock new insights that shape the future. Let us delve into the enchanted realm of data analytics, where every discovery holds the promise of transformation and innovation.
+Join me on this extraordinary voyage, and together we shall harness the magic of data to drive business growth, enhance production efficiency, and unlock new insights that shape the future. Let us delve into the enchanted realm of data analytics, where every discovery holds the promise of transformation and innovation!
 
 Find me : [Portfolio](https://adityadj.my.canva.site/portofolio) | [Twitter](https://twitter.com/adityadj98) | [LinkedIn](https://www.linkedin.com/in/adityadj/) | 
